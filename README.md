@@ -1,12 +1,12 @@
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Global EV Sales: 2010 - 2024](https://www.kaggle.com/datasets/patricklford/global-ev-sales-2010-2024/data)
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+[I thought it would be interesting to see how EVs have fared over the past 14 years.]
 
 ## Progress
-- [ ] Picked dataset
+- [x] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
