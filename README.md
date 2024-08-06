@@ -13,7 +13,7 @@
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: How many electric vehicles have been sold in the World in 2024 compared to 2010?
+- [ ] Question 1: How many electric vehicles have been sold in the World in 2023 compared to 2010?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
@@ -21,7 +21,7 @@
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: Who were the top 5 countries that sold EVs in 2024?
+- [ ] Question 3: Who were the top 5 countries that sold EVs in 2023?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
@@ -37,7 +37,7 @@
   - Answer: [Placeholder for answer]
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
-- [ ] Question 7: What is the ratio of types of EVs in 2024? (ie. BEV, PHEV, FCEV)
+- [ ] Question 7: What is the ratio of types of EVs in 2023? (ie. BEV, PHEV, FCEV)
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
