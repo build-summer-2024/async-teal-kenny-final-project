@@ -13,9 +13,9 @@
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: How many electric vehicles have been sold in the World in 2023 compared to 2010?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+- [x] Question 1: How many electric vehicles have been sold in the World in 2023 compared to 2010?
+  - Answer: 14,375,342 vehicles
+  - Visualization: ![Q1 Visualization](Visualizations\Question 1 Visualization.png)
 
 - [ ] Question 2: Who were the top 5 countries that sold EVs in 2010?
   - Answer: [Placeholder for answer]
