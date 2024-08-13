@@ -15,7 +15,7 @@
 ## Questions
 - [x] Question 1: How many electric vehicles have been sold in the World in 2023 compared to 2010?
   - Answer: 14,375,342 vehicles
-  - Visualization: [Q1 Visualization](Visualizations/Question%201%20Visualization.png)
+  - Visualization: ![Q1 Visualization](Visualizations/Question%201%20Visualization.png)
 
 - [ ] Question 2: Who were the top 5 countries that sold EVs in 2010?
   - Answer: [Placeholder for answer]
