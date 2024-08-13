@@ -17,9 +17,9 @@
   - Answer: 14,375,342 vehicles
   - Visualization: ![Q1 Visualization](Visualizations/Question%201%20Visualization.png)
 
-- [ ] Question 2: Who were the top 5 countries that sold EVs in 2010?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+- [x] Question 2: Who were the top 5 countries that sold EVs in 2010?
+  - Answer: China, Japan, United States, France, and the United Kingdom
+  - Visualization: ![Q2 Visualization](Visualizations/Question%202%20Visualization.png)
 
 - [ ] Question 3: Who were the top 5 countries that sold EVs in 2023?
   - Answer: [Placeholder for answer]
