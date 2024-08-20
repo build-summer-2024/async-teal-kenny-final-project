@@ -37,9 +37,9 @@
   - Answer: Much like US, but much more PHEV than the US
   - Visualization: ![Q6 Visualization](Visualizations/Question%206%20Visualization.png)
 
-- [ ] Question 7: What is the ratio of types of EVs in 2023? (ie. BEV, PHEV, FCEV)
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+- [x] Question 7: What is the ratio of types of EVs in 2023? (ie. BEV, PHEV, FCEV)
+  - Answer: Roughly BEV at 69%, PHEV at 30%, and FCEV at 0.2%
+  - Visualization: ![Q7 Visualization](Visualizations/Question%207%20Visualization.png)
 
 - [ ] Question 8: How has the ratio of EV types changed over time?
   - Answer: [Placeholder for answer]
