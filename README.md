@@ -29,9 +29,9 @@
   - Answer: China with 23,358,308 sales in total
   - Visualization: ![Q4 Visualization](Visualizations/Question%204%20Visualization.png)
 
-- [ ] Question 5: How has the stock changed in the US over time?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+- [x] Question 5: How has the stock changed in the US over time?
+  - Answer: General trend upward, more BEV than other powertrain types
+  - Visualization: ![Q5 Visualization](Visualizations/Question%205%20Visualization.png)
 
 - [ ] Question 6: How has the stock share changed in the World over time?
   - Answer: [Placeholder for answer]
