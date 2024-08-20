@@ -34,7 +34,7 @@
   - Visualization: ![Q5 Visualization](Visualizations/Question%205%20Visualization.png)
 
 - [x] Question 6: How has the stock changed in the World over time?
-  - Answer: Much like US, but much more PHEV than the US
+  - Answer: Much like US, but much more BEV than PHEV even in 2010-2011
   - Visualization: ![Q6 Visualization](Visualizations/Question%206%20Visualization.png)
 
 - [x] Question 7: What is the ratio of types of EVs in 2023? (ie. BEV, PHEV, FCEV)
