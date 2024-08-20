@@ -49,6 +49,6 @@
   - Answer: High amount of cars, roughly 95%, vans at 3.3%, buses at 1.2%, trucks at 0.7%
   - Visualization: ![Q9 Visualization](Visualizations/Question%209%20Visualization.png)
 
-- [ ] Question 10: How have the percentage of electric vehicles sold in the United States changed over time?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+- [x] Question 10: How have the percentage of electric vehicles sold in the United States changed over time?
+  - Answer: Cars get sold slightly more over time and other types tend to be at the same percentage
+  - Visualization: ![Q10 Visualization](Visualizations/Question%2010%20Visualization.png)
