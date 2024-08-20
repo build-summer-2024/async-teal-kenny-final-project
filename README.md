@@ -50,5 +50,5 @@
   - Visualization: ![Q9 Visualization](Visualizations/Question%209%20Visualization.png)
 
 - [x] Question 10: How have the percentage of electric vehicles sold in the United States changed over time?
-  - Answer: 
+  - Answer: Surprisingly no vans or trucks, mostly cars
   - Visualization: ![Q10 Visualization](Visualizations/Question%2010%20Visualization.png)
