@@ -21,15 +21,15 @@
   - Answer: China, Japan, United States, France, and the United Kingdom
   - Visualization: ![Q2 Visualization](Visualizations/Question%202%20Visualization.png)
 
-- [ ] Question 3: Who were the top 5 countries that sold EVs in 2023?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+- [x] Question 3: Who were the top 5 countries that sold EVs in 2023?
+  - Answer: China, United States, Germany, France, and the United Kingdom
+  - Visualization: ![Q3 Visualization](Visualizations/Question%203%20Visualization.png)
 
-- [ ] Question 4: Which country has sold the most EVs in total?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+- [x] Question 4: Which country has sold the most EVs in total?
+  - Answer: China with 23,358,308 sales in total
+  - Visualization: ![Q4 Visualization](Visualizations/Question%204%20Visualization.png)
 
-- [ ] Question 5: How has the stock share changed in the US over time?
+- [ ] Question 5: How has the stock changed in the US over time?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
