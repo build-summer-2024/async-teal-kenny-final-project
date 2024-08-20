@@ -41,14 +41,14 @@
   - Answer: Roughly BEV at 69%, PHEV at 30%, and FCEV at 0.2%
   - Visualization: ![Q7 Visualization](Visualizations/Question%207%20Visualization.png)
 
-- [ ] Question 8: How has the ratio of EV types changed over time?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+- [x] Question 8: How has the ratio of EV types changed over time?
+  - Answer: Cars get sold slightly more over time and other types tend to be at the same percentage
+  - Visualization: ![Q8 Visualization](Visualizations/Question%208%20Visualization.png)
 
 - [x] Question 9: What is the ratio of electric cars, trucks, etc. sold?
   - Answer: High amount of cars, roughly 95%, vans at 3.3%, buses at 1.2%, trucks at 0.7%
   - Visualization: ![Q9 Visualization](Visualizations/Question%209%20Visualization.png)
 
 - [x] Question 10: How have the percentage of electric vehicles sold in the United States changed over time?
-  - Answer: Cars get sold slightly more over time and other types tend to be at the same percentage
+  - Answer: 
   - Visualization: ![Q10 Visualization](Visualizations/Question%2010%20Visualization.png)
