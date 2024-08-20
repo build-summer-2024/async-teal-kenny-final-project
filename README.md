@@ -33,7 +33,7 @@
   - Answer: General trend upward, more BEV than other powertrain types
   - Visualization: ![Q5 Visualization](Visualizations/Question%205%20Visualization.png)
 
-- [ ] Question 6: How has the stock share changed in the World over time?
+- [ ] Question 6: How has the stock changed in the World over time?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
