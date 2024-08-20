@@ -45,9 +45,9 @@
   - Answer: [Placeholder for answer]
   - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
 
-- [ ] Question 9: What is the ratio of electric cars, trucks, etc. sold?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+- [x] Question 9: What is the ratio of electric cars, trucks, etc. sold?
+  - Answer: High amount of cars, roughly 95%, vans at 3.3%, buses at 1.2%, trucks at 0.7%
+  - Visualization: ![Q9 Visualization](Visualizations/Question%209%20Visualization.png)
 
 - [ ] Question 10: How have the percentage of electric vehicles sold in the United States changed over time?
   - Answer: [Placeholder for answer]
