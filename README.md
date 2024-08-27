@@ -8,8 +8,8 @@
 ## Progress
 - [x] Picked dataset
 - [x] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [x] Answered 10 questions using Pandas
+- [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
